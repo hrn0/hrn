@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>料金表</title>
+  <style type="text/css">
+   <!--
+
+    body{
+ text-align:center;
+}
+
+h3{
+ text-size:20px;
+ line-height:20px;
+}
+
+#kiyaku{
+ border:dotted 5px pink;
+ margin-bottom:10px;
+}
+#ryoukin{
+ border:dotted 5px skyblue;
+}
+
+
+#kanni{
+ width:200px;
+ border-radius:5px;
+ margin:0 auto;
+ background-color:#ddddff;
+}
+#kuuhaku{
+ background-color:#fff;
+}
+
+th{
+ background-color:#ddddff;
+}
+
+td{
+ background-color:lightgray;
+}
+
+#hinnmoku{
+ background-color:#ffdeef;
+}
+
+th,td{
+ width:80px;
+ border:solid 3px #fff;
+ border-radius:10px;
+ text-align:center;
+ //box-shadow:0 0 5px 0 pink;
+}
+
+   -->
+  </style>
+</head>
+<body>
+
+<div id="text">
+
+ <div id="kiyaku">
+  <h3>イラストの規約について</h3>
+  <p>
+
+・普段ツイートしているイラスト<br>
+保存〇使用✕<br>
+<br>
+・#フリー線画 の記載があるもの<br>
+保存、塗ったものの転載〇2次配布、商用利用、他の方の権利を侵害する行為✕<br>
+どなたでも自由に塗ってツイートしてくださって構いません。<br>
+画像内かツイートにID記載お願いします。<br>
+自分で塗ったものはID記載してくださればアイコンのみ使用可です。<br>
+<br>
+・#フリーアイコン の記載があるもの<br>
+基本的に保存、使用〇、商用利用、2次配布、改変✕<br>
+  </p>
+ </div>
+
+ <div id="ryoukin">
+　<h3>イラストのご依頼について</h3>
+<p>
+
+実績40件<br>
+※現在活動者様のみ受付中です。個人利用のご依頼は再開までお待ちください。(現在再開未定)<br>
+<br>
+・依頼内容を記載しTwitterのDM、又は【hrnpp8@gmail.com】へメールにてご連絡ください。<br>
+納品まで約2日〜1週間程(1枚のイラストにつき)<br>
+・版権ものは有償依頼が許可されているもののみ承れます(それが分かるURLやスクリーンショットの添付をお願いします。)<br>
+ーーーーーーーーーーーーーー<br>
+・お支払い方法<br>
+Amazonギフト券(先払い)<br>
+PayPay(先払い、500円引き)<br>
+PayPal(先払い、500円引き)<br>
+SKIMA<br>
+ココナラ<br>
+ーーーーーーーーーーーーーーーー<br>
+・基本料金にて商用利用(広告収益○、販売×)が可能です。(TwitterIDの記載お願い致します。)<br>
+・著作権譲渡の場合料金2倍となります。(著作者人格権の不行使の場合は要相談)<br>
+☆作画工程を少なくする事で料金を下げることもできますのでご相談ください。(基本料金50%程度まで)<br>
+<br>
+
+★料金表<br>
+<div id="kanni">簡易アイコン：1500円</div><br>
+
+<table border="0" style="border-collapse:collapse" align="center";>
+ <tr>
+  <th id="kuuhaku"></th>
+  <th>等身</th>
+  <th>デフォルメ</th>
+  <th>等身<br>live2D</th>
+  <th>デフォルメ<br>live2D</th>
+ </tr>
+
+ <tr>
+  <td id="hinnmoku">アイコン</td>
+  <td>5000円</td>
+  <td>ー</td>
+  <td>ー</td>
+  <td>ー</td>
+ </tr>
+
+ <tr>
+  <td id="hinnmoku">上半身</td>
+  <td>6000円</td>
+  <td>3000円</td>
+  <td>15000円</td>
+  <td>ー</td>
+ </tr>
+
+ <tr>
+  <td id="hinnmoku">全身</td>
+  <td>8000円</td>
+  <td>5000円</td>
+  <td>20000円</td>
+  <td>15000円</td>
+ </tr>
+
+ <tr>
+  <td id="hinnmoku">一枚絵</td>
+  <td>6000円</td>
+  <td>〜</td>
+  <td>10000円程</td>
+  <td>(要相談)</td>
+ </tr>
+</table>
+※live2Dのみ著作権譲渡込み<br>
+<br>
+詳細<br>
+<br>
+＊簡易アイコン<br>
+1500円<br>
+首、肩あたりまで、リテイクなし<br>
+クオリティ参考<br>
+
+
+女の子<br>
+<img src="https://twitter.com/hrn__xn/status/1310529380867694594?s=21"></img><br>
+
+男の子<br>
+<img src="href="https://twitter.com/hrn__xn/status/1335869841308147712?s=21"></img><br>
+
+<br>
+＊顔(等身)アイコン<br>
+5000円<br>
+•人物の首、肩あたりまで<br>
+•背景単色<br>
+
+＊上半身(等身)<br>
+6000円<br>
+・背景単色、透過<br>
+＋表情差分1(＋500)<br>
+＋衣装差分1(＋1500円)<br>
+＋背景追加(＋1500円)<br>
+＋live2Dパーツ分け(＋9000円)<br>
+<br>
+＊全身(等身)<br>
+8000円〜<br>
+・背景透過<br>
+＋表情差分1(＋500)<br>
+＋衣装差分1(＋2000円)<br>
+＋背景追加(＋2000円)<br>
+＋live2Dパーツ分け(＋12000円)<br>
+<br>
+＊上半身(デフォルメ)アイコン<br>
+3000円<br>
+•上半身<br>
+・背景単色<br>
+<br>
+＊デフォルメ全身<br>
+5000円〜<br>
+•背景透過<br>
+＋表情差分1(＋500)<br>
+＋衣装差分1(＋1000)<br>
+＋live2Dパーツ分け(＋10000円)<br>
+<br>
+＊1枚絵<br>
+(ゲームや歌ってみた、配信用など)<br>
+要相談<br>
+目安：6000円～10000円<br>
+イメージや構図を記載しDM、メールにてご相談ください。<br>
+</p>
+ </div>
+
+</div>
+
+  <script src="script.js"></script><br>
+</body>
+</html>
