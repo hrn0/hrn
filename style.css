@@ -2,8 +2,9 @@ body{
  text-align:center;
 }
 
-a{
+a:link,a:visited,a:hover,a:active{
  color:deeppink;
+ text-decoration: none;
 }
 
 #himg{
